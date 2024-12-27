@@ -1,9 +1,34 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPad; CPU OS 18_2_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/131.0.6778.134 Mobile/15E148 Safari/604.1" version="25.0.3">
   <diagram name="Page-1" id="0Xk4Jn5n9sRFxTAh5S3O">
-    <mxGraphModel>
+    <mxGraphModel dx="1235" dy="1444" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CnTkDBgABM73Pe2dlAKS-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CnTkDBgABM73Pe2dlAKS-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="83" y="43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CnTkDBgABM73Pe2dlAKS-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="CnTkDBgABM73Pe2dlAKS-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CnTkDBgABM73Pe2dlAKS-1" value="USER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="-166" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CnTkDBgABM73Pe2dlAKS-17" value="Login" style="shape=stencil(tZThDoIgEICfhr8NYT1Ao3oP0jOZBAwo6+1D0S1NXWu4Oba70+8+kRNR5ipuABFcIXpEhGQYhzXEzSTmzkDuY/LBreAXCbHivNU1NKLwPUOoCqzwbZWeED6Ee9qLslwrFSBCKzeqfNQDjAsVnsXPCOvbv0aRCfwbeLC9ZMwicv4du9tvA8428h1jB/vkvunAY+Nsqw+XDJz9j6UsZJYON2UXntdXq++qmJWx7Vytn/fpME6HdVZooS1lpbaw4lMKKeNMr+wgSCmMg8TeA32xffdiX/5dNv7IusQb);whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="47" width="171" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="CnTkDBgABM73Pe2dlAKS-19" value="Registration" style="shape=stencil(tZThDoIgEICfhr8NYT1Ao3oP0jOZBAwo6+1D0S1NXWu4Oba70+8+kRNR5ipuABFcIXpEhGQYhzXEzSTmzkDuY/LBreAXCbHivNU1NKLwPUOoCqzwbZWeED6Ee9qLslwrFSBCKzeqfNQDjAsVnsXPCOvbv0aRCfwbeLC9ZMwicv4du9tvA8428h1jB/vkvunAY+Nsqw+XDJz9j6UsZJYON2UXntdXq++qmJWx7Vytn/fpME6HdVZooS1lpbaw4lMKKeNMr+wgSCmMg8TeA32xffdiX/5dNv7IusQb);whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-29" y="47" width="171" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="CnTkDBgABM73Pe2dlAKS-20" value="Equip9 System" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="86" y="124" width="167" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="CnTkDBgABM73Pe2dlAKS-22" value="Equip9 System" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="382" y="121" width="167" height="69" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
