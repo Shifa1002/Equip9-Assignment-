@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPad; CPU OS 18_2_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/131.0.6778.134 Mobile/15E148 Safari/604.1" version="25.0.3">
   <diagram name="Page-1" id="CgNspkXvsqde1vR3tePX">
-    <mxGraphModel dx="907" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="848" dy="845" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,9 @@
         </mxCell>
         <mxCell id="wrjsNRCDVgazvwfSSqCF-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.487;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="wrjsNRCDVgazvwfSSqCF-6" target="wrjsNRCDVgazvwfSSqCF-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wrjsNRCDVgazvwfSSqCF-15" value="GitHub repository management system&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="8.5" y="41" width="289" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
