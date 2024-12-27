@@ -5,7 +5,7 @@ This project is a web application for user registration and login, built with Re
 #Steps to run locally
 1. Clone the repository:  
    ```bash
-   git clone <repository-link>
+   git clone <https://github.com/Shifa1002/Equip9-Assignment->
    ```  
 
 2. Backend Setup:  
