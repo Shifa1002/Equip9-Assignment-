@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPad; CPU OS 18_2_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/131.0.6778.134 Mobile/15E148 Safari/604.1" version="25.0.3">
   <diagram name="Page-1" id="_QFIYGUvJDqAoR0FGxrj">
-    <mxGraphModel>
+    <mxGraphModel dx="1147" dy="1334" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="-67" width="513" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tkhZARw6M0-DSfUEbTHD-4" target="tkhZARw6M0-DSfUEbTHD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-4" value="Developer (User)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-147" y="38" width="98" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tkhZARw6M0-DSfUEbTHD-6" target="tkhZARw6M0-DSfUEbTHD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-6" value="Create Use case diagram" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="-1" width="139" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tkhZARw6M0-DSfUEbTHD-7" target="tkhZARw6M0-DSfUEbTHD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-7" value="Finalise documentation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="-6" width="124" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-8" value="Submit repository link" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="73" y="126" width="144" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tkhZARw6M0-DSfUEbTHD-9" target="tkhZARw6M0-DSfUEbTHD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-9" value="Push changes to github" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="132" width="146" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-13" value="Equip9 assignment system" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="138" y="-53" width="262" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tkhZARw6M0-DSfUEbTHD-14" value="Documentation and submission" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="88" y="-108" width="353" height="33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
